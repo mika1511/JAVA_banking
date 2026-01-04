@@ -65,9 +65,6 @@ javac -cp ".;mysql.jar" bank_mysql.java
 java -cp ".;mysql.jar" bank_mysql
 ```
 
-> ⚠️ Make sure `mysql.jar` (MySQL Connector/J) is in the same directory.
-
----
 
 ## 📸 Application Screenshots
 
@@ -125,8 +122,4 @@ Java Developer | Swing | MySQL
 ## 📜 License
 
 This project is for **educational purposes**.
-
-```
-
-
 
