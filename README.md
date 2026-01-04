@@ -28,19 +28,6 @@ This application allows bank staff to manage user logins, create new accounts, p
 
 ---
 
-## 📂 Project Structure
-
-```
-
-bank_mysql.java
-mysql.jar
-bank_mysql.sql
-README.md
-
-````
-
----
-
 ## 🗄️ Database Setup
 
 1. Install **MySQL Server**
